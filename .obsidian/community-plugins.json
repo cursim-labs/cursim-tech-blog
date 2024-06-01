@@ -4,5 +4,7 @@
   "obsidian-plugin-toc",
   "dataview",
   "calendar",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-link-embed",
+  "convert-url-to-iframe"
 ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professional/Resume.md",
+                "file": "Blog/Categories.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professional/Resume.md",
+                "file": "Blog/Categories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Professional/Resume.md",
+                "file": "Blog/Categories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Professional/Resume.md"
+                "file": "Blog/Categories.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Professional/Resume.md",
+                "file": "Blog/Categories.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,12 +214,14 @@
   },
   "active": "8c375df2284a8bb1",
   "lastOpenFiles": [
+    "Blog/A Spontaneous Visit to Sensoji.md",
+    "Blog/Categories.md",
     "Blog/What's with B2B UX?.md",
-    "templates/Blog post template.md",
     "index.md",
+    "Professional/Resume.md",
+    "templates/Blog post template.md",
     "Welcome.md",
     "Professional/Projects/README.md",
-    "Professional/Resume.md",
     "Private/README.md",
     "Blog",
     "Private",
