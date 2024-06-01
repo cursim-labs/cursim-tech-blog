@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "41bfbc1e092ff369",
+    "type": "split",
+    "children": [
+      {
+        "id": "6200d9abd02e1f9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c375df2284a8bb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/What's with B2B UX?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c4af9cb501e363c",
+    "type": "split",
+    "children": [
+      {
+        "id": "369dc2aa68f160ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "816d1b823314d125",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60ad8378e29f6377",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f26b80b75fce8fd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d17ed8b957728ff1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c9d0f08b5d0e29f",
+        "type": "tabs",
+        "dimension": 32.78260869565217,
+        "children": [
+          {
+            "id": "03ed22cfa0be1fca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blog/What's with B2B UX?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ea61c278b2984673",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blog/What's with B2B UX?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ef2b2aab439ea1ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3da267877c12c02a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Blog/What's with B2B UX?.md"
+              }
+            }
+          },
+          {
+            "id": "aefed5e123f8af2d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "3182181d8230f342",
+        "type": "tabs",
+        "dimension": 33.608695652173914,
+        "children": [
+          {
+            "id": "ae3e1ce9f06a3ccf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1dfafbf189fce0f",
+        "type": "tabs",
+        "dimension": 33.608695652173914,
+        "children": [
+          {
+            "id": "3f4d92ffff325249",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Blog/What's with B2B UX?.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8c375df2284a8bb1",
+  "lastOpenFiles": [
+    "templates/Blog post template.md",
+    "Welcome.md",
+    "Blog/What's with B2B UX?.md",
+    "Blog/README.md",
+    "Blog",
+    "Professional/Resume.md",
+    "Professional/Projects/README.md",
+    "Professional/Projects",
+    "Professional",
+    "templates",
+    "2024-06-01.md"
+  ]
+}
