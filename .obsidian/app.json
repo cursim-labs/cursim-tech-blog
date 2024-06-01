@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./attachments",
-  "promptDelete": false
+  "promptDelete": false,
+  "propertiesInDocument": "source"
 }

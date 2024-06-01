@@ -1,3 +1,11 @@
+---
+title: What's with B2B UX?
+draft: false
+tags:
+  - uiux
+date: 2024-06-01
+---
+
 > [!INFO] Gist
 > UX Design for B2B and Enterprise applications vary greatly from the typical UX principles you'd think to follow, while still retaining the fundamental best practices that make a product usable.
 > I wanted to take a deeper look at what exactly separates the two and how one can best equip themselves to deliver on both fronts.

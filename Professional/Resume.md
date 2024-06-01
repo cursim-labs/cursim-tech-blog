@@ -1,3 +1,10 @@
+---
+title: Resume
+draft: false
+tags:
+  - portfolio
+date: 2024-06-01
+---
  
 > [!INFO] About me
 > I'm a Product Development Engineer based in Tokyo with 1.5 years of experience in the software industry. My focus area for the past few years has been front-end development with Vue3 and TypeScript, but I'm also skilled in and passionate about User Experience Design.

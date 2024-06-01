@@ -1,3 +1,10 @@
+---
+title: Welcome
+draft: false
+tags:
+  - home
+date: 2024-06-01
+---
 
 Welcome to my blog.
 I'm Akash Bagchi. A software developer currently working in Tokyo, Japan. 
@@ -10,3 +17,5 @@ At the time of writing, I'm planning to create a sort-of wiki to my professional
 		- [[Professional/Projects/README|README]]
 - Blog
 	- [[What's with B2B UX?]]
+---
+Created using [Obsidian](https://www.obsidian.md). 
