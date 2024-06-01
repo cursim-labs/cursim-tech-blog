@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/What's with B2B UX?.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/What's with B2B UX?.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/What's with B2B UX?.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/What's with B2B UX?.md"
+                "file": "Welcome.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Blog/What's with B2B UX?.md",
+                "file": "Welcome.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,10 +214,10 @@
   },
   "active": "8c375df2284a8bb1",
   "lastOpenFiles": [
-    "templates/Blog post template.md",
+    "Blog/README.md",
     "Welcome.md",
     "Blog/What's with B2B UX?.md",
-    "Blog/README.md",
+    "templates/Blog post template.md",
     "Blog",
     "Professional/Resume.md",
     "Professional/Projects/README.md",

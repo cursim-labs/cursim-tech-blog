@@ -1,0 +1,10 @@
+{
+  "foldHeading": false,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "tabSize": 3,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false
+}

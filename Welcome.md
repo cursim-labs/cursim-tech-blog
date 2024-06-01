@@ -9,6 +9,6 @@ At the time of writing, I'm planning to create a sort-of wiki to my professional
 	- Projects
 		- [[Professional/Projects/README|README]]
 - Blog
-	- [[Blog/README|README]]
+	- [[What's with B2B UX?]]
 ---
 Created using [Obsidian](https://www.obsidian.md). 
