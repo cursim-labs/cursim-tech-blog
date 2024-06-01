@@ -8,6 +8,7 @@ date: 2024-06-01
 
 > [!INFO] Gist
 > UX Design for B2B and Enterprise applications vary greatly from the typical UX principles you'd think to follow, while still retaining the fundamental best practices that make a product usable.
+> 
 > I wanted to take a deeper look at what exactly separates the two and how one can best equip themselves to deliver on both fronts.
 
 - [[#Setting The Scene|Setting The Scene]]
@@ -56,4 +57,5 @@ This is my first entry into my blog, and honestly it's more of a summary of my o
 
 ---
 Akash Bagchi, 01/06/24
-Location
+
+Tokyo, JP
